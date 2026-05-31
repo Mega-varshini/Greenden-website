@@ -1,2 +1,7 @@
 # Greenden-website
-Greenden is a simple and responsive plant shopping website built using HTML and CSS. It showcases a collection of indoor and outdoor plants with a clean and user-friendly design.
+
+## Greenden
+
+Greenden is a responsive plant shop website built using HTML and Tailwind CSS. It features a clean design, product showcase section, and mobile-friendly layout.
+
+you can see my project by using this [link]
